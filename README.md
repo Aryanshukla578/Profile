@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: 
+**URL**: https://profile-git-main-aryanshukla578s-projects.vercel.app/#home
 
 ## How can I edit this code?
 
