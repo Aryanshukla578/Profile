@@ -37,17 +37,15 @@ function Particles({ count = 2000 }) {
       <bufferGeometry>
         <bufferAttribute
           attach="attributes-position"
-          count={count}
           array={positions}
           itemSize={3}
-          needsUpdate={true}
+          count={positions.length / 3}
         />
         <bufferAttribute
           attach="attributes-color"
-          count={count}
           array={colors}
           itemSize={3}
-          needsUpdate={true}
+          count={colors.length / 3}
         />
       </bufferGeometry>
       <pointsMaterial
