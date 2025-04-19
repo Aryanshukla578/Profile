@@ -18,24 +18,24 @@ const projects: Project[] = [
     description: "A modern real estate platform with property listings, search functionality, and user profiles.",
     tags: ["React", "Node.js", "MongoDB", "Tailwind CSS"],
     image: "/placeholder.svg",
-    github: "https://github.com",
-    live: "https://example.com",
+    github: "https://github.com/aryanshukla578/Real-Estate-Guides",
+    live: "https://real-state-guides-git-main-aryanshukla578s-projects.vercel.app/",
   },
   {
     title: "Mindfull-Connect",
     description: "A mindfulness and meditation application helping users track their mental wellness journey.",
     tags: ["React Native", "Firebase", "Redux", "Express"],
     image: "/placeholder.svg",
-    github: "https://github.com",
-    live: "https://example.com",
+    github: "https://github.com/aryanshukla578/mindful-connect", // Assuming this is the correct GitHub repo
+    live: "https://mindful-connect-drab.vercel.app/",
   },
   {
     title: "Protectopia Website",
     description: "A cybersecurity education platform with interactive tutorials and security best practices.",
     tags: ["Vue.js", "Django", "PostgreSQL", "Docker"],
     image: "/placeholder.svg",
-    github: "https://github.com",
-    live: "https://example.com",
+    github: "https://github.com/vishalyadav158/protectopia-website", // Assuming this is the correct GitHub repo
+    live: "https://protectopia-website-git-main-vishalyadav158s-projects.vercel.app/",
   }
 ];
 
