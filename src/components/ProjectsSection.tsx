@@ -17,7 +17,7 @@ const projects: Project[] = [
     title: "Real-Estate Website",
     description: "A modern real estate platform with property listings, search functionality, and user profiles.",
     tags: ["React", "Node.js", "MongoDB", "Tailwind CSS"],
-    image: "/placeholder.svg",
+    image: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1073&q=80",
     github: "https://github.com/Aryanshukla578/Real-State-Guide.git",
     live: "https://real-state-guides-git-main-aryanshukla578s-projects.vercel.app/",
   },
@@ -25,16 +25,16 @@ const projects: Project[] = [
     title: "Mindfull-Connect",
     description: "A mindfulness and meditation application helping users track their mental wellness journey.",
     tags: ["React Native", "Firebase", "Redux", "Express"],
-    image: "/placeholder.svg",
-    github: "https://github.com/aryanshukla578/mindful-connect", // Assuming this is the correct GitHub repo
+    image: "https://images.unsplash.com/photo-1528714751998-b50242367e7d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    github: "https://github.com/aryanshukla578/mindful-connect",
     live: "https://mindful-connect-drab.vercel.app/",
   },
   {
     title: "Protectopia Website",
     description: "A cybersecurity education platform with interactive tutorials and security best practices.",
     tags: ["Vue.js", "Django", "PostgreSQL", "Docker"],
-    image: "/placeholder.svg",
-    github: "https://github.com/vishalyadav158/protectopia-website", // Assuming this is the correct GitHub repo
+    image: "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    github: "https://github.com/vishalyadav158/protectopia-website",
     live: "https://protectopia-website-git-main-vishalyadav158s-projects.vercel.app/",
   }
 ];
