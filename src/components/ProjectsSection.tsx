@@ -18,7 +18,7 @@ const projects: Project[] = [
     description: "A modern real estate platform with property listings, search functionality, and user profiles.",
     tags: ["React", "Node.js", "MongoDB", "Tailwind CSS"],
     image: "/placeholder.svg",
-    github: "https://github.com/aryanshukla578/Real-Estate-Guides",
+    github: "https://github.com/Aryanshukla578/Real-State-Guide.git",
     live: "https://real-state-guides-git-main-aryanshukla578s-projects.vercel.app/",
   },
   {
