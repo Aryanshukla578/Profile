@@ -25,7 +25,7 @@ const projects: Project[] = [
     title: "Mindfull-Connect",
     description: "A mindfulness and meditation application helping users track their mental wellness journey.",
     tags: ["React Native", "Firebase", "Redux", "Express"],
-    image: "https://images.unsplash.com/photo-1528714751998-b50242367e7d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    image: "https://t3.ftcdn.net/jpg/09/46/14/18/360_F_946141839_ZTtQ75eHkT0Bt7gTIWkSOpzcv2B4IJk9.jpg",
     github: "https://github.com/aryanshukla578/mindful-connect",
     live: "https://mindful-connect-drab.vercel.app/",
   },
